@@ -1,0 +1,217 @@
+{
+  "stringresources": {
+    "strings": {
+      "string": [
+        {
+          "-id": "title",
+          "en": "LAS VEGAS ROULETTE 1.0.2",
+          "de": "LAS VEGAS ROULETTE 1.0.2",
+          "es": "LAS VEGAS ROULETTE 1.0.2",
+          "fr": "LAS VEGAS ROULETTE 1.0.2",
+          "it": "LAS VEGAS ROULETTE 1.0.2",
+          "pt": "LAS VEGAS ROULETTE 1.0.2",
+          "ru": "ЛАС-ВЕГАС РУЛЕТКА 1.0.2",
+          "no": "LAS VEGAS ROULETTE 1.0.2"
+        },
+        {
+          "-id": "copyright",
+          "en": "2018 INLOGIC GAMES S.R.O. ALL RIGHTS RESERVED",
+          "de": "2018 INLOGIC GAMES S.R.O. ALL RIGHTS RESERVED",
+          "es": "2018 INLOGIC GAMES S.R.O. ALL RIGHTS RESERVED",
+          "fr": "2018 INLOGIC GAMES S.R.O. ALL RIGHTS RESERVED",
+          "it": "2018 INLOGIC GAMES S.R.O. ALL RIGHTS RESERVED",
+          "pt": "2018 INLOGIC GAMES S.R.O. ALL RIGHTS RESERVED",
+          "ru": "2018 INLOGIC GAMES S.R.O. ALL RIGHTS RESERVED",
+          "no": "2018 INLOGIC GAMES S.R.O. ALL RIGHTS RESERVED"
+        },
+        {
+          "-id": "instructions_text",
+          "en": "TAP BUTTONS FOR CORRESPONDING ACTIONS.\nPICK CHIPS IN THE CHIP SELECTION MENU AND TAP TO PLACE A CHIP ON RELEVANT SPOTS TO PLACE BETS.",
+          "de": "TIPPE AUF DIE SCHALTFLÄCHEN FÜR DIE JEWEILIGE AKTION.\nWÄHLE SPIELCHIPS IM MENÜ AUS UND TIPPE AUF DAS JEWEILIGE FELD, UM DORT EINEN CHIP ZU PLATZIEREN.",
+          "es": "TOCA LOS BOTONES PARA REALIZAR LA ACCIÓN CORRESPONDIENTE.\nRECOGE FICHAS EN EL MENÚ DE SELECCIÓN DE FICHAS Y COLÓCALAS EN LOS LUGARES ADECUADOS PARA REALIZAR APUESTAS.",
+          "fr": "TOUCHEZ LES BOUTONS POUR RÉALISER L'ACTION CORRESPONDANTE.\nCHOISISSEZ LES JETONS DANS LE MENU DE SÉLECTION DES JETONS. TOUCHEZ L'ÉCRAN POUR PLACER UN JETON SUR LA CASE SOUHAITÉE ET MISER.",
+          "it": "TOCCA I PULSANTI PER ESEGUIRE LE AZIONI CORRISPONDENTI.\nPRENDI LE FICHE NEL MENU DI SELEZIONE E TOCCA PER POSIZIONARE UNA FICHE SU UN POSTO PER FARE LE SCOMMESSE.",
+          "pt": "TOQUE NOS BOTÕES PARA AS AÇÕES CORRESPONDENTES.\nPEGUE AS FICHAS NO MENU DE SELEÇÃO DE FICHAS E TOQUE PARA COLOCAR UMA FICHA NOS LUGARES RELEVANTES PARA APOSTAR.",
+          "ru": "НАЖМИТЕ НА КНОПКИ ДЛЯ ВЫПОЛНЕНИЯ СООТВЕТСТВУЮЩИХ ДЕЙСТВИЙ. \n ВЫБИРАЙТЕ ФИШКИ В МЕНЮ ВЫБОРА ФИШЕК И НАЖМИТЕ, ЧТОБЫ РАЗМЕСТИТЬ ФИШКУ НА СООТВЕТСТВУЮЩИХ МЕСТАХ ДЛЯ РАЗМЕЩЕНИЯ СТАВОК.",
+          "no": "TRYKK PÅ KNAPPER FOR TILSVARENDE HANDLINGER.\n VELG CHIPS I MENYEN FOR VALG AV CHIPS OG TRYKK FOR Å PLASSERE ET SPILL PÅ RELEVANTE STEDER FOR Å PLASSERE INNSATS."
+        },
+        {
+          "-id": "spin",
+          "en": "SPIN",
+          "de": "DREHEN",
+          "es": "TIRAR",
+          "fr": "TOURNER",
+          "it": "GIRA",
+          "pt": "GIRE",
+          "ru": "ВРАЩАТЬ",
+          "no": "SNURRE"
+        },
+        {
+          "-id": "total",
+          "en": "TOTAL:",
+          "de": "GESAMT:",
+          "es": "TOTAL:",
+          "fr": "TOTAL:",
+          "it": "TOTALE:",
+          "pt": "TOTAL:",
+          "ru": "ВСЕГО:",
+          "no": "TOTAL:"
+        },
+        {
+          "-id": "bet",
+          "en": "BET:",
+          "de": "EINSATZ:",
+          "es": "APUESTA:",
+          "fr": "MISER:",
+          "it": "PUNTATA:",
+          "pt": "APOSTE:",
+          "ru": "СТАВКА:",
+          "no": "INNSATS:"
+        },
+        {
+          "-id": "last_numbers",
+          "en": "LAST NUMBERS",
+          "de": "LETZTE ZAHLEN",
+          "es": "ÚLTIMOS NÚMEROS",
+          "fr": "DERNIERS NUMÉROS",
+          "it": "ULTIMI NUMERI",
+          "pt": "ÚLTIMOS NÚMEROS",
+          "ru": "ПОСЛЕДНИЙ НОМЕР",
+          "no": "SISTE NUMRENE"
+        },
+        {
+          "-id": "result",
+          "en": "RESULT",
+          "de": "ERGEBNIS",
+          "es": "RESULTADO",
+          "fr": "RÉSULTAT",
+          "it": "RISULTATO",
+          "pt": "RESULTADO",
+          "ru": "РЕЗУЛЬТАТ",
+          "no": "RESULTAT"
+        },
+        {
+          "-id": "last_spin",
+          "en": "LAST SPIN:",
+          "de": "LETZTER DREH:",
+          "es": "ÚLTIMA TIRADA:",
+          "fr": "DERNIER TOUR DE ROUE:",
+          "it": "ULTIMO GIRO:",
+          "pt": "ÚLTIMA GIRADA:",
+          "ru": "ПОСЛЕДНИЙ ОБОРОТ:",
+          "no": "SISTE SPINN:"
+        },
+        {
+          "-id": "session",
+          "en": "SESSION:",
+          "de": "RUNDE:",
+          "es": "SESIÓN:",
+          "fr": "SESSION:",
+          "it": "SESSIONE:",
+          "pt": "SESSÃO:",
+          "ru": "СЕССИЯ:",
+          "no": "SESJON:"
+        },
+        {
+          "-id": "settings",
+          "en": "SETTINGS",
+          "de": "EINSTELLUNGEN",
+          "es": "CONFIGURACIÓN",
+          "fr": "PARAMÈTRES",
+          "it": "IMPOSTAZIONI",
+          "pt": "CONFIGURAÇÕES",
+          "ru": "НАСТРОЙКИ",
+          "no": "INSTILLINGER"
+        },
+        {
+          "-id": "instructions",
+          "en": "INSTRUCTIONS",
+          "de": "ANLEITUNG",
+          "es": "INSTRUCCIONES",
+          "fr": "INSTRUCTIONS",
+          "it": "ISTRUZIONI",
+          "pt": "INSTRUÇÕES",
+          "ru": "ИНСТРУКЦИЯ",
+          "no": "INSTRUKSJONER"
+        },
+        {
+          "-id": "about",
+          "en": "ABOUT",
+          "de": "INFO",
+          "es": "INFORMACIÓN",
+          "fr": "À PROPOS",
+          "it": "INFO",
+          "pt": "SOBRE",
+          "ru": "ОБ ИГРЕ",
+          "no": "OM"
+        },
+        {
+          "-id": "sounds",
+          "en": "SOUNDS",
+          "de": "TON",
+          "es": "SONIDO",
+          "fr": "SONS",
+          "it": "SONORO",
+          "pt": "SONS",
+          "ru": "ЗВУКИ",
+          "no": "LYD"
+        },
+        {
+          "-id": "music",
+          "en": "MUSIC",
+          "de": "MUSIK",
+          "es": "MÚSICA",
+          "fr": "MUSIQUE",
+          "it": "MUSICA",
+          "pt": "MÚSICA",
+          "ru": "МУЗЫКА",
+          "no": "MUSIKK"
+        },
+        {
+          "-id": "quit",
+          "en": "QUIT?",
+          "de": "VERLASSEN?",
+          "es": "¿SALIR?",
+          "fr": "QUITTER ?",
+          "it": "USCIRE?",
+          "pt": "SAIR?",
+          "ru": "ВЫЙТИ?",
+          "no": "AVSLUTTE?"
+        },
+        {
+          "-id": "yes",
+          "en": "YES",
+          "de": "JA",
+          "es": "SÍ",
+          "fr": "OUI",
+          "it": "SÌ",
+          "pt": "SIM",
+          "ru": "ДА",
+          "no": "JA"
+        },
+        {
+          "-id": "no",
+          "en": "NO",
+          "de": "NEIN",
+          "es": "NO",
+          "fr": "NON",
+          "it": "NO",
+          "pt": "NÃO",
+          "ru": "НЕТ",
+          "no": "NEI"
+        },
+        {
+          "-id": "out_of_chips",
+          "en": "OUT OF CHIPS. RESET?",
+          "de": "KEINE CHIPS MEHR. ZURÜCKSETZEN?",
+          "es": "NO TE QUEDAN FICHAS. ¿RESTABLECER?",
+          "fr": "À COURT DE JETONS. RÉINITIALISER ?",
+          "it": "SENZA GETTONI. AZZERARE?",
+          "pt": "SEM FICHAS. REDEFINIR?",
+          "ru": "ФИШКИ. СБРОСИТЬ?",
+          "no": "IKKE FLERE CHIPS. OMSTART?"
+        }
+      ]
+    }
+  }
+}
